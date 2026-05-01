@@ -185,7 +185,7 @@ The `[Route("api/[controller]")]` attribute automatically generates routes based
 
 Import the Postman collection to test all API endpoints:
 
-[Postman API Collection]([https://www.postman.com/ayman-mohamed-1997/workspace/bank-management-system-api/collection](https://web.postman.co/workspace/My-Workspace~296437ab-4ba2-4301-834a-1a45692944ab/folder/39003960-dc963b98-fa0b-4963-acf9-28eafd0d56bd?action=share&source=copy-link&creator=39003960))
+[Postman API Collection](https://www.postman.com/ayman-mohamed-1997/workspace/bank-management-system-api/collection](https://web.postman.co/workspace/My-Workspace~296437ab-4ba2-4301-834a-1a45692944ab/folder/39003960-dc963b98-fa0b-4963-acf9-28eafd0d56bd?action=share&source=copy-link&creator=39003960))
 
 ## Technologies Used
 
